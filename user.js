@@ -264,4 +264,4 @@ user_pref("security.ssl3.dhe_dss_aes_128_sha", false);
 user_pref("security.ssl3.dhe_dss_aes_256_sha", false);
 user_pref("security.ssl3.dhe_dss_camellia_128_sha", false);
 user_pref("security.ssl3.dhe_dss_camellia_256_sha", false);
-user_pref("network.trr..uri", "https://dns.quad9.net/dns-query");
+user_pref("network.trr.uri", "https://dns.quad9.net/dns-query");
